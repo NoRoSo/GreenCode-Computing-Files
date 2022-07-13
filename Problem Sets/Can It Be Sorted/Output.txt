@@ -1,0 +1,1000 @@
+CASE #1 no
+CASE #2 yes reverse 60 78
+CASE #3 yes 52 501
+CASE #4 no
+CASE #5 yes reverse 229 300
+CASE #6 yes 248 328
+CASE #7 yes 311 534
+CASE #8 no
+CASE #9 yes 25 34
+CASE #10 no
+CASE #11 yes swap 781 782
+CASE #12 yes 202 502
+CASE #13 yes 548 738
+CASE #14 no
+CASE #15 yes 596 857
+CASE #16 no
+CASE #17 yes 51 83
+CASE #18 yes reverse 250 426
+CASE #19 no
+CASE #20 yes 439 511
+CASE #21 no
+CASE #22 yes 223 242
+CASE #23 yes 260 728
+CASE #24 no
+CASE #25 yes 3 7
+CASE #26 yes reverse 127 484
+CASE #27 no
+CASE #28 yes
+CASE #29 yes 17 304
+CASE #30 yes reverse 541 595
+CASE #31 yes reverse 75 397
+CASE #32 yes reverse 581 828
+CASE #33 yes reverse 72 219
+CASE #34 yes reverse 458 698
+CASE #35 yes reverse 143 187
+CASE #36 yes reverse 291 426
+CASE #37 yes reverse 538 584
+CASE #38 yes reverse 111 149
+CASE #39 no
+CASE #40 yes reverse 257 281
+CASE #41 yes reverse 119 125
+CASE #42 no
+CASE #43 yes reverse 8 13
+CASE #44 yes 202 251
+CASE #45 no
+CASE #46 yes reverse 1 26
+CASE #47 yes 36 138
+CASE #48 no
+CASE #49 yes 134 178
+CASE #50 yes 51 293
+CASE #51 no
+CASE #52 yes 495 590
+CASE #53 yes 140 293
+CASE #54 yes 58 123
+CASE #55 yes reverse 228 310
+CASE #56 yes 59 160
+CASE #57 no
+CASE #58 yes reverse 94 256
+CASE #59 yes reverse 6 484
+CASE #60 yes 232 405
+CASE #61 yes 138 470
+CASE #62 yes reverse 643 684
+CASE #63 yes 78 94
+CASE #64 yes 5 177
+CASE #65 no
+CASE #66 yes 18 312
+CASE #67 no
+CASE #68 yes reverse 803 810
+CASE #69 yes 369 636
+CASE #70 yes 44 554
+CASE #71 no
+CASE #72 no
+CASE #73 yes reverse 108 120
+CASE #74 yes 357 445
+CASE #75 no
+CASE #76 yes 12 25
+CASE #77 yes
+CASE #78 no
+CASE #79 no
+CASE #80 yes 42 272
+CASE #81 yes reverse 90 871
+CASE #82 yes 154 536
+CASE #83 yes 65 177
+CASE #84 no
+CASE #85 yes 44 164
+CASE #86 no
+CASE #87 yes 3 9
+CASE #88 no
+CASE #89 no
+CASE #90 yes reverse 50 188
+CASE #91 no
+CASE #92 yes reverse 273 468
+CASE #93 no
+CASE #94 no
+CASE #95 no
+CASE #96 yes 27 77
+CASE #97 yes 80 174
+CASE #98 yes reverse 840 885
+CASE #99 yes 111 190
+CASE #100 no
+CASE #101 no
+CASE #102 no
+CASE #103 no
+CASE #104 yes 220 339
+CASE #105 yes
+CASE #106 yes 119 446
+CASE #107 yes 1 29
+CASE #108 yes reverse 566 732
+CASE #109 no
+CASE #110 yes reverse 48 55
+CASE #111 yes reverse 456 549
+CASE #112 no
+CASE #113 no
+CASE #114 yes 131 135
+CASE #115 no
+CASE #116 yes 38 51
+CASE #117 no
+CASE #118 no
+CASE #119 yes reverse 195 331
+CASE #120 no
+CASE #121 yes reverse 732 738
+CASE #122 yes reverse 501 598
+CASE #123 yes 41 70
+CASE #124 yes 1 65
+CASE #125 yes 30 276
+CASE #126 yes 32 163
+CASE #127 yes reverse 256 357
+CASE #128 yes reverse 394 424
+CASE #129 yes 184 538
+CASE #130 yes reverse 489 613
+CASE #131 yes reverse 49 54
+CASE #132 yes 245 285
+CASE #133 no
+CASE #134 yes 655 822
+CASE #135 yes 59 118
+CASE #136 yes
+CASE #137 yes 153 237
+CASE #138 no
+CASE #139 no
+CASE #140 yes reverse 77 150
+CASE #141 yes 74 280
+CASE #142 yes reverse 793 800
+CASE #143 yes reverse 382 596
+CASE #144 yes reverse 91 100
+CASE #145 yes reverse 579 713
+CASE #146 yes reverse 528 562
+CASE #147 yes reverse 485 498
+CASE #148 yes 1 31
+CASE #149 no
+CASE #150 no
+CASE #151 yes reverse 259 291
+CASE #152 no
+CASE #153 yes 150 344
+CASE #154 yes 24 173
+CASE #155 no
+CASE #156 yes 32 364
+CASE #157 yes reverse 688 724
+CASE #158 yes reverse 358 610
+CASE #159 yes
+CASE #160 no
+CASE #161 yes reverse 304 337
+CASE #162 yes reverse 156 353
+CASE #163 yes 126 178
+CASE #164 no
+CASE #165 yes 127 325
+CASE #166 yes
+CASE #167 no
+CASE #168 yes reverse 458 522
+CASE #169 yes 60 159
+CASE #170 yes 58 293
+CASE #171 yes 410 550
+CASE #172 yes 95 154
+CASE #173 no
+CASE #174 yes
+CASE #175 yes reverse 356 489
+CASE #176 no
+CASE #177 yes 650 757
+CASE #178 yes reverse 421 716
+CASE #179 no
+CASE #180 no
+CASE #181 yes reverse 367 370
+CASE #182 yes 169 572
+CASE #183 yes 53 258
+CASE #184 no
+CASE #185 yes 436 667
+CASE #186 yes 25 155
+CASE #187 yes reverse 15 17
+CASE #188 yes 316 363
+CASE #189 yes reverse 98 393
+CASE #190 yes 1 16
+CASE #191 yes reverse 291 331
+CASE #192 yes 203 285
+CASE #193 yes reverse 65 249
+CASE #194 no
+CASE #195 yes reverse 358 553
+CASE #196 no
+CASE #197 yes reverse 2 323
+CASE #198 yes 18 29
+CASE #199 no
+CASE #200 yes 30 710
+CASE #201 no
+CASE #202 yes reverse 75 186
+CASE #203 yes 41 131
+CASE #204 yes reverse 492 579
+CASE #205 no
+CASE #206 yes reverse 102 185
+CASE #207 no
+CASE #208 yes 31 159
+CASE #209 yes 121 399
+CASE #210 no
+CASE #211 no
+CASE #212 yes reverse 74 194
+CASE #213 yes 204 276
+CASE #214 no
+CASE #215 yes
+CASE #216 yes 27 56
+CASE #217 yes
+CASE #218 yes 39 761
+CASE #219 no
+CASE #220 yes reverse 4 46
+CASE #221 yes reverse 68 73
+CASE #222 yes reverse 80 90
+CASE #223 yes 475 742
+CASE #224 no
+CASE #225 yes
+CASE #226 yes swap 1 2
+CASE #227 yes reverse 789 807
+CASE #228 no
+CASE #229 yes 67 581
+CASE #230 yes 31 45
+CASE #231 no
+CASE #232 yes 9 81
+CASE #233 no
+CASE #234 no
+CASE #235 yes 17 623
+CASE #236 yes 219 345
+CASE #237 yes 161 221
+CASE #238 no
+CASE #239 yes reverse 13 31
+CASE #240 no
+CASE #241 yes 255 404
+CASE #242 no
+CASE #243 no
+CASE #244 yes reverse 55 570
+CASE #245 yes 31 175
+CASE #246 yes 39 340
+CASE #247 no
+CASE #248 yes 4 397
+CASE #249 yes 282 862
+CASE #250 yes reverse 921 946
+CASE #251 yes reverse 262 743
+CASE #252 yes 11 405
+CASE #253 yes reverse 266 278
+CASE #254 yes 146 479
+CASE #255 yes reverse 121 224
+CASE #256 no
+CASE #257 yes 273 498
+CASE #258 yes reverse 98 218
+CASE #259 no
+CASE #260 yes 79 133
+CASE #261 no
+CASE #262 yes 89 169
+CASE #263 yes 196 261
+CASE #264 yes reverse 54 57
+CASE #265 yes reverse 94 213
+CASE #266 no
+CASE #267 yes 14 37
+CASE #268 yes 75 202
+CASE #269 yes
+CASE #270 no
+CASE #271 yes reverse 207 801
+CASE #272 yes swap 4 5
+CASE #273 no
+CASE #274 yes 2 64
+CASE #275 yes 4 15
+CASE #276 yes reverse 520 847
+CASE #277 yes
+CASE #278 no
+CASE #279 yes 89 123
+CASE #280 no
+CASE #281 yes 461 535
+CASE #282 yes 110 289
+CASE #283 no
+CASE #284 yes reverse 305 705
+CASE #285 no
+CASE #286 no
+CASE #287 no
+CASE #288 no
+CASE #289 no
+CASE #290 yes 668 701
+CASE #291 yes reverse 187 194
+CASE #292 no
+CASE #293 yes reverse 202 564
+CASE #294 yes 33 60
+CASE #295 yes
+CASE #296 yes reverse 225 326
+CASE #297 yes reverse 187 450
+CASE #298 yes 163 176
+CASE #299 yes 127 286
+CASE #300 yes 95 116
+CASE #301 yes reverse 513 521
+CASE #302 yes reverse 104 172
+CASE #303 yes reverse 127 201
+CASE #304 yes reverse 402 487
+CASE #305 no
+CASE #306 no
+CASE #307 yes reverse 326 352
+CASE #308 yes reverse 542 553
+CASE #309 no
+CASE #310 no
+CASE #311 yes 12 23
+CASE #312 no
+CASE #313 yes reverse 84 95
+CASE #314 yes 40 399
+CASE #315 yes reverse 478 500
+CASE #316 no
+CASE #317 no
+CASE #318 yes 78 145
+CASE #319 no
+CASE #320 yes reverse 193 195
+CASE #321 yes reverse 97 113
+CASE #322 no
+CASE #323 yes 442 845
+CASE #324 no
+CASE #325 yes 154 159
+CASE #326 no
+CASE #327 yes reverse 40 110
+CASE #328 yes
+CASE #329 yes 23 190
+CASE #330 yes reverse 44 221
+CASE #331 yes reverse 138 159
+CASE #332 yes 196 250
+CASE #333 yes 378 451
+CASE #334 yes 587 749
+CASE #335 yes reverse 88 90
+CASE #336 yes reverse 107 130
+CASE #337 yes reverse 43 61
+CASE #338 yes 411 462
+CASE #339 no
+CASE #340 yes reverse 115 400
+CASE #341 no
+CASE #342 no
+CASE #343 no
+CASE #344 yes reverse 359 372
+CASE #345 yes 143 186
+CASE #346 yes reverse 158 211
+CASE #347 yes reverse 157 424
+CASE #348 no
+CASE #349 yes reverse 408 735
+CASE #350 yes 154 818
+CASE #351 yes reverse 537 551
+CASE #352 no
+CASE #353 yes reverse 422 506
+CASE #354 yes 95 174
+CASE #355 yes 80 225
+CASE #356 yes 198 227
+CASE #357 yes reverse 124 127
+CASE #358 yes reverse 99 227
+CASE #359 yes 105 150
+CASE #360 yes 115 372
+CASE #361 yes reverse 474 534
+CASE #362 yes 169 299
+CASE #363 yes reverse 28 49
+CASE #364 yes 92 104
+CASE #365 yes reverse 159 305
+CASE #366 no
+CASE #367 no
+CASE #368 no
+CASE #369 yes 238 541
+CASE #370 yes reverse 237 526
+CASE #371 yes 68 128
+CASE #372 yes reverse 42 70
+CASE #373 no
+CASE #374 yes 92 308
+CASE #375 no
+CASE #376 no
+CASE #377 yes 291 482
+CASE #378 no
+CASE #379 yes 79 254
+CASE #380 no
+CASE #381 yes 74 118
+CASE #382 yes reverse 105 327
+CASE #383 no
+CASE #384 yes reverse 439 452
+CASE #385 no
+CASE #386 no
+CASE #387 no
+CASE #388 yes 216 497
+CASE #389 yes 14 77
+CASE #390 yes reverse 4 56
+CASE #391 no
+CASE #392 yes reverse 329 774
+CASE #393 yes reverse 110 132
+CASE #394 no
+CASE #395 yes 722 777
+CASE #396 no
+CASE #397 no
+CASE #398 yes 59 75
+CASE #399 yes reverse 183 368
+CASE #400 no
+CASE #401 yes 236 705
+CASE #402 yes reverse 250 422
+CASE #403 yes 253 334
+CASE #404 yes 250 482
+CASE #405 no
+CASE #406 no
+CASE #407 yes reverse 104 135
+CASE #408 no
+CASE #409 yes 27 41
+CASE #410 yes 161 615
+CASE #411 yes 313 708
+CASE #412 yes reverse 285 469
+CASE #413 yes reverse 476 850
+CASE #414 yes
+CASE #415 yes reverse 45 452
+CASE #416 yes reverse 4 10
+CASE #417 no
+CASE #418 yes reverse 315 790
+CASE #419 no
+CASE #420 yes 37 72
+CASE #421 yes reverse 372 567
+CASE #422 yes reverse 47 144
+CASE #423 yes reverse 992 995
+CASE #424 no
+CASE #425 yes 7 11
+CASE #426 yes reverse 290 356
+CASE #427 yes 163 398
+CASE #428 yes 252 367
+CASE #429 yes reverse 223 309
+CASE #430 yes reverse 127 129
+CASE #431 yes reverse 71 87
+CASE #432 yes reverse 247 374
+CASE #433 yes reverse 454 597
+CASE #434 no
+CASE #435 yes reverse 23 61
+CASE #436 no
+CASE #437 no
+CASE #438 yes 434 446
+CASE #439 yes 187 247
+CASE #440 no
+CASE #441 yes 135 498
+CASE #442 yes 537 881
+CASE #443 yes 19 164
+CASE #444 yes reverse 124 164
+CASE #445 yes reverse 156 483
+CASE #446 yes 367 919
+CASE #447 yes
+CASE #448 no
+CASE #449 yes reverse 272 472
+CASE #450 yes swap 10 11
+CASE #451 yes reverse 286 806
+CASE #452 yes reverse 255 280
+CASE #453 no
+CASE #454 yes 4 507
+CASE #455 yes 122 543
+CASE #456 yes reverse 6 155
+CASE #457 yes 122 236
+CASE #458 yes reverse 398 423
+CASE #459 no
+CASE #460 yes
+CASE #461 yes 29 40
+CASE #462 yes 2 126
+CASE #463 yes reverse 141 272
+CASE #464 no
+CASE #465 no
+CASE #466 no
+CASE #467 yes reverse 78 95
+CASE #468 no
+CASE #469 yes reverse 136 235
+CASE #470 no
+CASE #471 yes reverse 518 524
+CASE #472 yes 359 376
+CASE #473 yes
+CASE #474 yes 277 504
+CASE #475 yes reverse 634 648
+CASE #476 no
+CASE #477 yes reverse 31 151
+CASE #478 yes reverse 566 642
+CASE #479 yes 494 632
+CASE #480 no
+CASE #481 yes 24 68
+CASE #482 yes reverse 798 823
+CASE #483 yes reverse 260 644
+CASE #484 yes 208 453
+CASE #485 no
+CASE #486 yes 30 93
+CASE #487 yes reverse 425 521
+CASE #488 no
+CASE #489 yes reverse 5 96
+CASE #490 no
+CASE #491 no
+CASE #492 no
+CASE #493 no
+CASE #494 yes reverse 712 720
+CASE #495 yes 46 266
+CASE #496 yes 335 443
+CASE #497 yes 36 44
+CASE #498 yes 13 143
+CASE #499 yes reverse 132 499
+CASE #500 yes 169 241
+CASE #501 yes reverse 15 550
+CASE #502 yes reverse 69 84
+CASE #503 yes 138 841
+CASE #504 no
+CASE #505 yes 143 210
+CASE #506 yes reverse 280 409
+CASE #507 yes reverse 417 421
+CASE #508 no
+CASE #509 yes reverse 44 194
+CASE #510 no
+CASE #511 yes 171 248
+CASE #512 yes reverse 248 267
+CASE #513 yes 376 409
+CASE #514 yes reverse 388 402
+CASE #515 yes 407 562
+CASE #516 yes reverse 59 104
+CASE #517 yes
+CASE #518 yes 145 408
+CASE #519 yes reverse 590 598
+CASE #520 yes 33 330
+CASE #521 yes reverse 410 416
+CASE #522 yes reverse 126 197
+CASE #523 yes 133 160
+CASE #524 yes 10 132
+CASE #525 yes swap 23 24
+CASE #526 yes 186 362
+CASE #527 no
+CASE #528 yes 12 27
+CASE #529 no
+CASE #530 no
+CASE #531 yes reverse 11 114
+CASE #532 yes 227 520
+CASE #533 no
+CASE #534 yes reverse 412 439
+CASE #535 yes 242 330
+CASE #536 yes reverse 337 460
+CASE #537 yes reverse 15 75
+CASE #538 yes reverse 23 89
+CASE #539 yes 11 62
+CASE #540 no
+CASE #541 yes 73 216
+CASE #542 yes 396 705
+CASE #543 yes 22 53
+CASE #544 yes 332 343
+CASE #545 yes 92 409
+CASE #546 yes reverse 32 39
+CASE #547 yes reverse 175 226
+CASE #548 yes reverse 151 165
+CASE #549 yes reverse 114 206
+CASE #550 no
+CASE #551 yes 264 297
+CASE #552 no
+CASE #553 yes reverse 523 539
+CASE #554 yes reverse 16 37
+CASE #555 no
+CASE #556 yes 87 370
+CASE #557 no
+CASE #558 no
+CASE #559 no
+CASE #560 yes 47 251
+CASE #561 yes reverse 483 723
+CASE #562 yes reverse 11 28
+CASE #563 no
+CASE #564 yes reverse 216 298
+CASE #565 yes reverse 781 812
+CASE #566 no
+CASE #567 yes 491 872
+CASE #568 yes 274 400
+CASE #569 no
+CASE #570 yes 3 75
+CASE #571 yes reverse 68 497
+CASE #572 yes reverse 382 419
+CASE #573 yes
+CASE #574 no
+CASE #575 no
+CASE #576 yes reverse 398 433
+CASE #577 no
+CASE #578 no
+CASE #579 yes reverse 86 163
+CASE #580 yes 419 476
+CASE #581 yes reverse 764 862
+CASE #582 yes reverse 51 558
+CASE #583 yes 312 912
+CASE #584 no
+CASE #585 yes 5 480
+CASE #586 yes 11 48
+CASE #587 yes reverse 99 326
+CASE #588 yes 342 546
+CASE #589 yes reverse 56 106
+CASE #590 no
+CASE #591 yes reverse 488 523
+CASE #592 yes reverse 43 169
+CASE #593 no
+CASE #594 yes 34 47
+CASE #595 no
+CASE #596 yes
+CASE #597 yes 32 105
+CASE #598 yes 154 250
+CASE #599 yes reverse 321 843
+CASE #600 yes 85 111
+CASE #601 yes reverse 211 246
+CASE #602 yes reverse 190 218
+CASE #603 yes 49 220
+CASE #604 yes reverse 133 161
+CASE #605 no
+CASE #606 no
+CASE #607 yes 221 502
+CASE #608 yes reverse 875 891
+CASE #609 yes 164 216
+CASE #610 no
+CASE #611 yes 7 262
+CASE #612 yes swap 175 176
+CASE #613 yes reverse 35 392
+CASE #614 no
+CASE #615 yes reverse 46 174
+CASE #616 yes reverse 213 297
+CASE #617 yes reverse 65 70
+CASE #618 yes reverse 789 803
+CASE #619 yes reverse 43 94
+CASE #620 no
+CASE #621 no
+CASE #622 yes reverse 372 674
+CASE #623 yes 160 200
+CASE #624 yes reverse 659 712
+CASE #625 yes 28 99
+CASE #626 yes reverse 100 600
+CASE #627 no
+CASE #628 yes 184 290
+CASE #629 yes 152 178
+CASE #630 yes 229 238
+CASE #631 yes 194 214
+CASE #632 yes 526 777
+CASE #633 no
+CASE #634 yes
+CASE #635 yes 11 781
+CASE #636 no
+CASE #637 yes reverse 475 638
+CASE #638 yes 208 403
+CASE #639 yes 537 610
+CASE #640 yes swap 85 86
+CASE #641 yes reverse 34 61
+CASE #642 no
+CASE #643 no
+CASE #644 no
+CASE #645 yes 307 527
+CASE #646 yes 8 130
+CASE #647 yes 119 129
+CASE #648 yes 563 567
+CASE #649 yes 338 514
+CASE #650 yes 3 35
+CASE #651 yes 2 49
+CASE #652 yes 14 71
+CASE #653 yes 168 210
+CASE #654 yes 141 426
+CASE #655 no
+CASE #656 yes 105 247
+CASE #657 yes 221 523
+CASE #658 no
+CASE #659 yes 170 592
+CASE #660 yes reverse 530 533
+CASE #661 no
+CASE #662 no
+CASE #663 yes reverse 31 33
+CASE #664 no
+CASE #665 no
+CASE #666 yes reverse 484 690
+CASE #667 yes swap 31 32
+CASE #668 no
+CASE #669 no
+CASE #670 yes 2 577
+CASE #671 yes 282 858
+CASE #672 no
+CASE #673 yes 156 590
+CASE #674 no
+CASE #675 yes reverse 976 979
+CASE #676 yes 1 4
+CASE #677 no
+CASE #678 yes reverse 244 425
+CASE #679 yes reverse 579 625
+CASE #680 no
+CASE #681 no
+CASE #682 yes reverse 116 403
+CASE #683 yes reverse 132 143
+CASE #684 yes 175 249
+CASE #685 yes 316 421
+CASE #686 yes 145 165
+CASE #687 yes swap 104 105
+CASE #688 yes 24 490
+CASE #689 yes 465 491
+CASE #690 no
+CASE #691 yes reverse 340 343
+CASE #692 yes swap 20 21
+CASE #693 yes 7 153
+CASE #694 no
+CASE #695 no
+CASE #696 yes reverse 692 723
+CASE #697 yes 193 272
+CASE #698 yes 213 662
+CASE #699 yes 74 194
+CASE #700 no
+CASE #701 no
+CASE #702 yes 151 192
+CASE #703 no
+CASE #704 yes reverse 214 265
+CASE #705 no
+CASE #706 yes 552 614
+CASE #707 yes reverse 252 277
+CASE #708 yes reverse 455 705
+CASE #709 no
+CASE #710 no
+CASE #711 no
+CASE #712 no
+CASE #713 yes reverse 174 198
+CASE #714 no
+CASE #715 no
+CASE #716 yes reverse 776 789
+CASE #717 yes reverse 190 202
+CASE #718 no
+CASE #719 yes reverse 425 444
+CASE #720 yes reverse 231 278
+CASE #721 yes 92 813
+CASE #722 yes 5 15
+CASE #723 yes 94 555
+CASE #724 no
+CASE #725 yes 238 487
+CASE #726 no
+CASE #727 no
+CASE #728 no
+CASE #729 no
+CASE #730 yes swap 34 35
+CASE #731 no
+CASE #732 no
+CASE #733 yes reverse 300 335
+CASE #734 no
+CASE #735 no
+CASE #736 yes reverse 192 413
+CASE #737 no
+CASE #738 yes reverse 23 122
+CASE #739 yes 80 845
+CASE #740 no
+CASE #741 no
+CASE #742 yes 112 311
+CASE #743 yes reverse 375 744
+CASE #744 no
+CASE #745 no
+CASE #746 no
+CASE #747 yes reverse 721 893
+CASE #748 yes 54 116
+CASE #749 yes 604 678
+CASE #750 yes 168 250
+CASE #751 no
+CASE #752 no
+CASE #753 yes 504 751
+CASE #754 yes reverse 90 154
+CASE #755 no
+CASE #756 yes 29 172
+CASE #757 yes 102 141
+CASE #758 yes 47 167
+CASE #759 yes reverse 143 164
+CASE #760 yes reverse 263 442
+CASE #761 yes reverse 17 26
+CASE #762 yes reverse 202 241
+CASE #763 yes reverse 556 587
+CASE #764 yes reverse 81 258
+CASE #765 no
+CASE #766 yes reverse 84 96
+CASE #767 yes reverse 199 227
+CASE #768 yes reverse 57 97
+CASE #769 yes 336 539
+CASE #770 yes 13 17
+CASE #771 no
+CASE #772 yes 231 342
+CASE #773 no
+CASE #774 yes swap 4 5
+CASE #775 no
+CASE #776 yes reverse 108 222
+CASE #777 no
+CASE #778 yes 406 521
+CASE #779 no
+CASE #780 yes 12 375
+CASE #781 yes reverse 14 30
+CASE #782 yes 305 593
+CASE #783 no
+CASE #784 yes reverse 3 6
+CASE #785 yes reverse 58 99
+CASE #786 yes 45 59
+CASE #787 no
+CASE #788 yes 548 641
+CASE #789 yes reverse 217 376
+CASE #790 no
+CASE #791 yes reverse 194 517
+CASE #792 yes reverse 163 511
+CASE #793 yes 394 793
+CASE #794 yes reverse 172 736
+CASE #795 no
+CASE #796 yes 191 476
+CASE #797 yes 207 400
+CASE #798 yes reverse 32 469
+CASE #799 no
+CASE #800 yes reverse 179 194
+CASE #801 yes reverse 321 366
+CASE #802 no
+CASE #803 yes
+CASE #804 yes reverse 187 282
+CASE #805 no
+CASE #806 yes reverse 91 99
+CASE #807 yes reverse 160 215
+CASE #808 yes reverse 507 522
+CASE #809 no
+CASE #810 yes reverse 340 398
+CASE #811 yes 127 348
+CASE #812 yes reverse 553 626
+CASE #813 yes reverse 432 463
+CASE #814 no
+CASE #815 yes reverse 256 349
+CASE #816 yes 188 482
+CASE #817 yes reverse 157 249
+CASE #818 yes 453 615
+CASE #819 yes reverse 79 425
+CASE #820 yes 326 563
+CASE #821 yes reverse 11 22
+CASE #822 yes 176 192
+CASE #823 yes swap 6 7
+CASE #824 yes reverse 626 701
+CASE #825 yes 168 287
+CASE #826 yes 137 463
+CASE #827 yes 50 69
+CASE #828 no
+CASE #829 yes reverse 126 262
+CASE #830 no
+CASE #831 yes reverse 155 298
+CASE #832 no
+CASE #833 no
+CASE #834 yes 150 382
+CASE #835 yes reverse 4 260
+CASE #836 yes reverse 94 99
+CASE #837 no
+CASE #838 no
+CASE #839 yes 533 803
+CASE #840 yes reverse 275 424
+CASE #841 yes reverse 224 230
+CASE #842 no
+CASE #843 no
+CASE #844 no
+CASE #845 yes 74 420
+CASE #846 yes swap 89 90
+CASE #847 yes reverse 394 444
+CASE #848 yes 166 829
+CASE #849 yes
+CASE #850 yes 72 76
+CASE #851 no
+CASE #852 no
+CASE #853 no
+CASE #854 no
+CASE #855 yes 22 42
+CASE #856 no
+CASE #857 no
+CASE #858 no
+CASE #859 yes reverse 530 705
+CASE #860 yes 383 641
+CASE #861 yes 373 719
+CASE #862 yes 140 149
+CASE #863 no
+CASE #864 no
+CASE #865 yes
+CASE #866 no
+CASE #867 yes 112 274
+CASE #868 yes reverse 38 363
+CASE #869 yes reverse 23 162
+CASE #870 yes 183 292
+CASE #871 yes 382 433
+CASE #872 yes reverse 190 604
+CASE #873 yes 19 38
+CASE #874 yes 435 730
+CASE #875 no
+CASE #876 no
+CASE #877 yes 13 520
+CASE #878 yes reverse 597 749
+CASE #879 no
+CASE #880 no
+CASE #881 yes 5 15
+CASE #882 yes reverse 137 699
+CASE #883 yes 92 278
+CASE #884 no
+CASE #885 no
+CASE #886 yes reverse 703 722
+CASE #887 no
+CASE #888 yes reverse 1 165
+CASE #889 no
+CASE #890 yes 23 206
+CASE #891 yes 8 305
+CASE #892 no
+CASE #893 no
+CASE #894 no
+CASE #895 yes reverse 90 371
+CASE #896 yes 2 17
+CASE #897 no
+CASE #898 yes reverse 39 95
+CASE #899 no
+CASE #900 yes reverse 254 279
+CASE #901 yes reverse 29 297
+CASE #902 yes reverse 572 590
+CASE #903 yes 26 490
+CASE #904 yes reverse 46 814
+CASE #905 no
+CASE #906 no
+CASE #907 yes 101 396
+CASE #908 yes 114 212
+CASE #909 no
+CASE #910 no
+CASE #911 yes reverse 43 208
+CASE #912 yes reverse 38 65
+CASE #913 yes reverse 312 589
+CASE #914 yes 168 311
+CASE #915 no
+CASE #916 yes
+CASE #917 no
+CASE #918 no
+CASE #919 yes 67 194
+CASE #920 yes 140 302
+CASE #921 yes reverse 85 445
+CASE #922 no
+CASE #923 yes 60 553
+CASE #924 yes swap 272 273
+CASE #925 no
+CASE #926 no
+CASE #927 yes reverse 30 54
+CASE #928 no
+CASE #929 no
+CASE #930 yes
+CASE #931 no
+CASE #932 yes reverse 132 247
+CASE #933 yes reverse 7 129
+CASE #934 no
+CASE #935 yes reverse 110 182
+CASE #936 yes 219 280
+CASE #937 yes reverse 210 421
+CASE #938 yes reverse 510 554
+CASE #939 yes reverse 16 111
+CASE #940 yes 147 609
+CASE #941 yes 1 9
+CASE #942 no
+CASE #943 yes reverse 170 683
+CASE #944 no
+CASE #945 yes reverse 194 436
+CASE #946 yes reverse 143 362
+CASE #947 no
+CASE #948 no
+CASE #949 yes reverse 232 910
+CASE #950 yes reverse 308 854
+CASE #951 yes reverse 222 370
+CASE #952 no
+CASE #953 yes reverse 158 214
+CASE #954 no
+CASE #955 yes reverse 66 81
+CASE #956 yes 429 693
+CASE #957 yes reverse 677 685
+CASE #958 yes 89 120
+CASE #959 yes 2 19
+CASE #960 yes reverse 352 377
+CASE #961 no
+CASE #962 no
+CASE #963 no
+CASE #964 yes reverse 87 89
+CASE #965 yes reverse 194 324
+CASE #966 no
+CASE #967 no
+CASE #968 no
+CASE #969 no
+CASE #970 yes reverse 643 673
+CASE #971 yes reverse 343 369
+CASE #972 yes 558 694
+CASE #973 no
+CASE #974 yes 54 277
+CASE #975 yes reverse 372 389
+CASE #976 no
+CASE #977 yes reverse 56 155
+CASE #978 yes 189 443
+CASE #979 no
+CASE #980 no
+CASE #981 yes reverse 521 753
+CASE #982 yes 12 622
+CASE #983 yes 174 251
+CASE #984 no
+CASE #985 no
+CASE #986 yes 130 269
+CASE #987 yes reverse 102 147
+CASE #988 yes 157 662
+CASE #989 yes 176 657
+CASE #990 yes 59 286
+CASE #991 yes 201 482
+CASE #992 yes 78 131
+CASE #993 no
+CASE #994 yes
+CASE #995 yes reverse 258 405
+CASE #996 no
+CASE #997 yes reverse 91 123
+CASE #998 yes 61 189
+CASE #999 yes 24 67
+CASE #1000 yes 80 535
