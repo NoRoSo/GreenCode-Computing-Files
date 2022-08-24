@@ -1,0 +1,2 @@
+.248779 seconds
+5.3479 joules
