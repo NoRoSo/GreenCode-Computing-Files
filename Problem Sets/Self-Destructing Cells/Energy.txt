@@ -1,7 +1,0 @@
-Normal:
-Times out
-2500.5121 Joules
-
-Good:
-.224964 Seconds
-5.1148 Joules

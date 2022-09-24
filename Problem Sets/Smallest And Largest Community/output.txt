@@ -1,1 +1,0 @@
-Smallest: 2 Largest: 437

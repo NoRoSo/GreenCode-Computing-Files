@@ -1,2 +1,0 @@
-Terminated in 3.97046 Seconds
-Used 150.1307 Joules

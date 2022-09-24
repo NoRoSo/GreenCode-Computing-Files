@@ -1,9 +1,0 @@
-CASE #1: 3
-CASE #2: 3
-CASE #3: 17
-CASE #4: 3
-CASE #5: 3
-CASE #6: 17
-CASE #7: 3
-CASE #8: 3
-CASE #9: 17
