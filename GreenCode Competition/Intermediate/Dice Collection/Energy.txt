@@ -1,0 +1,4 @@
+.29066 Seconds
+6.6846 joules
+
+(note: this was an optimized approach)
